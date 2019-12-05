@@ -1,3 +1,3 @@
-export const doIt = () => {
+export const calcFuel = () => {
   return 42;
 }
